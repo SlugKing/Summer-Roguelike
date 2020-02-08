@@ -1,0 +1,16 @@
+ELEMENT LIST (update in Dungeon Generator's RoomCreator, inspector and script)
+
+0 (non-indexed) - empty space, no prefab
+1 - solid cube [solid on all sides]
+2 - semisolid platform
+3 - left wedge [solid on left and bottom]
+4 - right wedge [solid on right and bottom]
+
+ENEMY TYPE LIST (update in Dungeon Generator's RoomCreator, inspector)
+
+0 - placeholder enemy
+
+ITEM LIST (update in Player's Visual's PlayerMoveset, inspector)
+
+0 - base dagger
+1 - sickle
