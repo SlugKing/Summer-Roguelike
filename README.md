@@ -1,2 +1,2 @@
-# Led-By-Lantern
-Beat-em'-up game created as a final project for CS590G at UMass Amherst
+# Summer-Roguelike
+Game project originating in summer 2019
